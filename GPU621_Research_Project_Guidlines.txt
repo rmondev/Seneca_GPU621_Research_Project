@@ -1,0 +1,42 @@
+GPU621 Research Project Guidelines
+==================================
+
+Suggested Topics and Examples
+https://wiki.cdot.senecacollege.ca/wiki/GPU621/DPS921_G_P_Index_20207
+
+
+Format:
+-------
+
+1. Introduction:
+
+What is the purpose of this research project?
+Summarize the purpose
+
+2. Motivation:
+
+Why is this topic being explored? 
+What is your motivation?
+Interest?
+Importance?
+
+3. Experiments/Use Cases:
+
+Showcase examples of the topic
+
+4. Discussion
+
+- pros/cons
+- plus/delta
+
+
+5. Summary
+
+6. Citations and References
+
+
+Deliverables:
+
+- Research Report (as above)
+
+- PowerPoint Presentation

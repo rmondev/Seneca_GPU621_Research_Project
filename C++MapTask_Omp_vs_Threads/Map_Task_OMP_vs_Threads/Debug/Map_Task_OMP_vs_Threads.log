@@ -1,0 +1,2 @@
+﻿icl: : message #10441: The Intel(R) C++ Compiler Classic (ICC) is deprecated and will be removed from product release in the second half of 2023. The Intel(R) oneAPI DPC++/C++ Compiler (ICX) is the recommended compiler moving forward. Please transition to use this compiler. Use '/Qdiag-disable:10441' to disable this message.
+  Threads_Power_of_2.cpp
